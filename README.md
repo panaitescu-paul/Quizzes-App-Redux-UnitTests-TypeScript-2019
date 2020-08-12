@@ -1,1 +1,1 @@
-# QuizzesApp-Redux-UnitTests-2019
+# Quizzes App Redux UnitTests - TypeScript - 2019
